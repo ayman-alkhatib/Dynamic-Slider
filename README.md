@@ -2,6 +2,7 @@
 
 A simple project built to practice **Bootstrap** and improve practical web development skills. It features a basic image carousel to explore responsive design and interactive elements.
 
+live demo: https://ayman-alkhatib.github.io/Dynamic-Slider/
 
 <img src="https://github.com/user-attachments/assets/b64f2281-2de9-49e8-8fd3-46ddfd8133ce" width="600"/>
 
